@@ -1,8 +1,8 @@
 # OpenFlow Cookbook 
 
-<a href="https://prod.packtpub.com/in/networking-and-servers/openflow-cookbook?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="OpenFlow Cookbook " height="256px" align="right"></a>
+<a href="https://prod.packtpub.com/in/networking-and-servers/openflow-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783987948"><img src="" alt="OpenFlow Cookbook " height="256px" align="right"></a>
 
-This is the code repository for [OpenFlow Cookbook ](https://prod.packtpub.com/in/networking-and-servers/openflow-cookbook?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [OpenFlow Cookbook ](https://prod.packtpub.com/in/networking-and-servers/openflow-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783987948), published by Packt.
 
 **Over 110 recipes to design and develop your own
 OpenFlow switch and OpenFlow controller**
